@@ -1,0 +1,13 @@
+div {
+  padding:10px;
+  display: block;
+  background: lightblue;
+  text-align: center;
+  margin: 20px;
+}
+
+
+button {
+  padding: 5px;
+  margin:5px;
+}
